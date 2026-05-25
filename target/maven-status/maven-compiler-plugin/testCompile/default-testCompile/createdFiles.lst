@@ -1,0 +1,13 @@
+com\qentelli\GroupFinalAssessment\tests\api\CreateUserApiTest.class
+com\qentelli\GroupFinalAssessment\tests\ui\TransactionHistoryTest.class
+com\qentelli\GroupFinalAssessment\tests\ui\TransferFundsTest.class
+com\qentelli\GroupFinalAssessment\tests\api\FetchUserApiTest.class
+com\qentelli\GroupFinalAssessment\tests\parallel\ParallelApiTest.class
+com\qentelli\GroupFinalAssessment\tests\ui\RegistrationTest.class
+com\qentelli\GroupFinalAssessment\tests\parallel\ParallelUiTest.class
+com\qentelli\GroupFinalAssessment\tests\ui\LoginTest.class
+com\qentelli\GroupFinalAssessment\tests\api\AuthApiTest.class
+com\qentelli\GroupFinalAssessment\tests\integration\UiApiIntegrationTest.class
+com\qentelli\GroupFinalAssessment\tests\ui\OpenAccountTest.class
+com\qentelli\GroupFinalAssessment\runners\TestRunner.class
+com\qentelli\GroupFinalAssessment\tests\ui\NegativeTransferTest.class

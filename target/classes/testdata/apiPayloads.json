@@ -1,0 +1,13 @@
+{
+  "address": {
+    "city": "Hyderabad",
+    "street": "Madhapur",
+    "number": 10,
+    "zipcode": "500081",
+    "geolocation": {
+      "lat": "-37.3159",
+      "long": "81.1496"
+    }
+  },
+  "phone": "9876543210"
+}

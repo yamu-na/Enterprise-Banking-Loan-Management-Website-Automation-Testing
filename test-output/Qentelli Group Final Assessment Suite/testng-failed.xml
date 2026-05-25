@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Qentelli Group Final Assessment Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.qentelli.GroupFinalAssessment.listeners.TestListener"/>
+    <listener class-name="com.qentelli.GroupFinalAssessment.listeners.RetryListener"/>
+  </listeners>
+  <test thread-count="5" parallel="classes" name="UI Automation Tests(failed)">
+    <classes>
+      <class name="com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest">
+        <methods>
+          <include name="setup"/>
+          <include name="validateTransactionHistory"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest -->
+      <class name="com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest">
+        <methods>
+          <include name="verifyTransferFundsTest"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest -->
+      <class name="com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest">
+        <methods>
+          <include name="verifyInvalidTransferTest"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest -->
+      <class name="com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest">
+        <methods>
+          <include name="verifyCustomerRegistration"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="verifyRegistrationWithoutMandatoryFields"/>
+        </methods>
+      </class> <!-- com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest -->
+      <class name="com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest">
+        <methods>
+          <include name="setup"/>
+          <include name="verifyOpenAccountTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest -->
+    </classes>
+  </test> <!-- UI Automation Tests(failed) -->
+  <test thread-count="5" name="API Automation Tests(failed)">
+    <classes>
+      <class name="com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest">
+        <methods>
+          <include name="setup"/>
+          <include name="fetchUserApiTest"/>
+        </methods>
+      </class> <!-- com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest -->
+    </classes>
+  </test> <!-- API Automation Tests(failed) -->
+</suite> <!-- Failed suite [Qentelli Group Final Assessment Suite] -->

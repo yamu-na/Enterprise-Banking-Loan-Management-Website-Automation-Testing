@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-25T23:01:39 IST" name="Qentelli Group Final Assessment Suite" finished-at="2026-05-25T23:02:19 IST" duration-ms="39655">
+    <groups>
+    </groups>
+    <test started-at="2026-05-25T23:01:39 IST" name="UI Automation Tests" finished-at="2026-05-25T23:02:08 IST" duration-ms="28352">
+      <class name="com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest@312ab28e]" started-at="2026-05-25T23:01:40 IST" name="setup" finished-at="2026-05-25T23:01:45 IST" duration-ms="5599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCustomerRegistration()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest@312ab28e]" started-at="2026-05-25T23:01:45 IST" name="verifyCustomerRegistration" finished-at="2026-05-25T23:01:50 IST" duration-ms="4311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCustomerRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest@312ab28e]" started-at="2026-05-25T23:01:50 IST" name="tearDown" finished-at="2026-05-25T23:01:50 IST" duration-ms="288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest@312ab28e]" started-at="2026-05-25T23:01:50 IST" name="setup" finished-at="2026-05-25T23:01:52 IST" duration-ms="2166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegistrationWithoutMandatoryFields()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest@312ab28e]" started-at="2026-05-25T23:01:52 IST" name="verifyRegistrationWithoutMandatoryFields" finished-at="2026-05-25T23:01:56 IST" duration-ms="4057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistrationWithoutMandatoryFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest@312ab28e]" started-at="2026-05-25T23:01:56 IST" name="tearDown" finished-at="2026-05-25T23:01:56 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest -->
+      <class name="com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest@62452cc9]" started-at="2026-05-25T23:01:48 IST" name="setup" finished-at="2026-05-25T23:01:51 IST" duration-ms="3249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTransferFundsTest()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest@62452cc9]" started-at="2026-05-25T23:01:51 IST" name="verifyTransferFundsTest" description="Validate successful transfer" finished-at="2026-05-25T23:02:03 IST" duration-ms="11785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTransferFundsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest@62452cc9]" started-at="2026-05-25T23:02:03 IST" name="tearDown" finished-at="2026-05-25T23:02:03 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest -->
+      <class name="com.qentelli.GroupFinalAssessment.tests.ui.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.LoginTest@7e22550a]" started-at="2026-05-25T23:01:40 IST" name="setup" finished-at="2026-05-25T23:01:44 IST" duration-ms="4738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginTest()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.LoginTest@7e22550a]" started-at="2026-05-25T23:01:44 IST" name="verifyLoginTest" description="Validate login functionality" finished-at="2026-05-25T23:01:47 IST" duration-ms="2821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.LoginTest@7e22550a]" started-at="2026-05-25T23:01:47 IST" name="tearDown" finished-at="2026-05-25T23:01:48 IST" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qentelli.GroupFinalAssessment.tests.ui.LoginTest -->
+      <class name="com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest@5bc9ba1d]" started-at="2026-05-25T23:01:56 IST" name="setup" finished-at="2026-05-25T23:01:59 IST" duration-ms="2641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyInvalidTransferTest()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest@5bc9ba1d]" started-at="2026-05-25T23:01:59 IST" name="verifyInvalidTransferTest" description="Validate negative transfer scenario" finished-at="2026-05-25T23:02:08 IST" duration-ms="8611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidTransferTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest@5bc9ba1d]" started-at="2026-05-25T23:02:08 IST" name="tearDown" finished-at="2026-05-25T23:02:08 IST" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest -->
+      <class name="com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest@45e37a7e]" started-at="2026-05-25T23:01:40 IST" name="setup" finished-at="2026-05-25T23:01:44 IST" duration-ms="4456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyOpenAccountTest()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest@45e37a7e]" started-at="2026-05-25T23:01:44 IST" name="verifyOpenAccountTest" description="Validate account creation" finished-at="2026-05-25T23:01:50 IST" duration-ms="5856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOpenAccountTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest@45e37a7e]" started-at="2026-05-25T23:01:50 IST" name="tearDown" finished-at="2026-05-25T23:01:50 IST" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest -->
+      <class name="com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest@5a7005d]" started-at="2026-05-25T23:01:50 IST" name="setup" finished-at="2026-05-25T23:01:54 IST" duration-ms="3634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateTransactionHistory()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest@5a7005d]" started-at="2026-05-25T23:01:54 IST" name="validateTransactionHistory" description="Validate transaction history functionality" finished-at="2026-05-25T23:01:59 IST" duration-ms="4898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTransactionHistory -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest@5a7005d]" started-at="2026-05-25T23:01:59 IST" name="tearDown" finished-at="2026-05-25T23:01:59 IST" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest -->
+    </test> <!-- UI Automation Tests -->
+    <test started-at="2026-05-25T23:02:08 IST" name="API Automation Tests" finished-at="2026-05-25T23:02:12 IST" duration-ms="4029">
+      <class name="com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest@1f2f9244]" started-at="2026-05-25T23:02:11 IST" name="setup" finished-at="2026-05-25T23:02:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="fetchUserApiTest()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest@1f2f9244]" started-at="2026-05-25T23:02:11 IST" name="fetchUserApiTest" description="Validate Fetch User API" finished-at="2026-05-25T23:02:12 IST" duration-ms="702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchUserApiTest -->
+      </class> <!-- com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest -->
+      <class name="com.qentelli.GroupFinalAssessment.tests.api.AuthApiTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.api.AuthApiTest@792bbc74]" started-at="2026-05-25T23:02:08 IST" name="setup" finished-at="2026-05-25T23:02:08 IST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginApiTest()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.api.AuthApiTest@792bbc74]" started-at="2026-05-25T23:02:08 IST" name="loginApiTest" description="Validate Login API" finished-at="2026-05-25T23:02:11 IST" duration-ms="2279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApiTest -->
+      </class> <!-- com.qentelli.GroupFinalAssessment.tests.api.AuthApiTest -->
+      <class name="com.qentelli.GroupFinalAssessment.tests.api.CreateUserApiTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.api.CreateUserApiTest@79145d5a]" started-at="2026-05-25T23:02:11 IST" name="setup" finished-at="2026-05-25T23:02:11 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="createUserApiTest()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.api.CreateUserApiTest@79145d5a]" started-at="2026-05-25T23:02:11 IST" name="createUserApiTest" description="Validate Create User API" finished-at="2026-05-25T23:02:11 IST" duration-ms="804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserApiTest -->
+      </class> <!-- com.qentelli.GroupFinalAssessment.tests.api.CreateUserApiTest -->
+    </test> <!-- API Automation Tests -->
+    <test started-at="2026-05-25T23:02:12 IST" name="Integration Test" finished-at="2026-05-25T23:02:19 IST" duration-ms="6990">
+      <class name="com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest@505a9d7c]" started-at="2026-05-25T23:02:12 IST" name="setup" finished-at="2026-05-25T23:02:15 IST" duration-ms="3140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="uiApiIntegrationTest()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest@505a9d7c]" started-at="2026-05-25T23:02:15 IST" name="uiApiIntegrationTest" description="Validate UI and API Integration" finished-at="2026-05-25T23:02:19 IST" duration-ms="3641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiApiIntegrationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest@505a9d7c]" started-at="2026-05-25T23:02:19 IST" name="tearDown" finished-at="2026-05-25T23:02:19 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest -->
+    </test> <!-- Integration Test -->
+  </suite> <!-- Qentelli Group Final Assessment Suite -->
+</testng-results>

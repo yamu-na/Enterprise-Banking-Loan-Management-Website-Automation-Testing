@@ -1,0 +1,783 @@
+2026-05-25 18:40:47                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Browser setup started
+2026-05-25 18:40:47                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Browser setup started
+2026-05-25 18:40:47                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Browser setup started
+2026-05-25 18:40:51                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Application launched successfully
+2026-05-25 18:40:51                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Login Test Started
+2026-05-25 18:40:52                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Username : john
+2026-05-25 18:40:53                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Application launched successfully
+2026-05-25 18:40:53                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Open Account Test Started
+2026-05-25 18:40:54                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Application launched successfully
+2026-05-25 18:40:54                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Registration Test Started
+2026-05-25 18:40:54                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.HomePage - Clicking Register Link
+2026-05-25 18:40:55                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Login successful
+2026-05-25 18:40:55                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Closing browser
+2026-05-25 18:40:55                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Login successful
+2026-05-25 18:40:55                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Browser setup started
+2026-05-25 18:40:55                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Customer Registration Started
+2026-05-25 18:40:55                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Generated Username : user7258
+2026-05-25 18:40:55                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Password generated successfully
+2026-05-25 18:40:57                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Generated Account Number : 17895
+2026-05-25 18:40:57                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Closing browser
+2026-05-25 18:40:58                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Browser setup started
+2026-05-25 18:40:58                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Submitting Registration Form
+2026-05-25 18:40:59                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Application launched successfully
+2026-05-25 18:40:59                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Funds Test Started
+2026-05-25 18:40:59                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Username : john
+2026-05-25 18:40:59                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Validating Registration Success
+2026-05-25 18:41:00                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Fetching Success Message
+2026-05-25 18:41:00                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Validating Account Creation Message
+2026-05-25 18:41:00                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Fetching Current URL
+2026-05-25 18:41:00                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Generated Username : user7258
+2026-05-25 18:41:00                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Registration Test Completed
+2026-05-25 18:41:00                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Closing browser
+2026-05-25 18:41:01                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Browser setup started
+2026-05-25 18:41:02                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Application launched successfully
+2026-05-25 18:41:02                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction History Test Started
+2026-05-25 18:41:02                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Login successful
+2026-05-25 18:41:03                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Application launched successfully
+2026-05-25 18:41:03                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Username fetched successfully
+2026-05-25 18:41:04                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Application launched successfully
+2026-05-25 18:41:04                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Negative Registration Test Started
+2026-05-25 18:41:04                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.HomePage - Clicking Register Link
+2026-05-25 18:41:05                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - From Account Created : 18228
+2026-05-25 18:41:05                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Login completed successfully
+2026-05-25 18:41:05                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Clicking Register Button Without Data
+2026-05-25 18:41:06                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Checking Validation Message
+2026-05-25 18:41:06                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Screenshot Captured At : screenshots/verifyRegistrationWithoutMandatoryFields_20260525_184106.png
+2026-05-25 18:41:06                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Negative Registration Test Completed
+2026-05-25 18:41:06                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Closing browser
+2026-05-25 18:41:06                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Browser setup started
+2026-05-25 18:41:07                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - First account opened successfully
+2026-05-25 18:41:07                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - To Account Created : 18339
+2026-05-25 18:41:08                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Amount : 500.0
+2026-05-25 18:41:08                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Description : Monthly Rent
+2026-05-25 18:41:08                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Expected Result : success
+2026-05-25 18:41:09                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Application launched successfully
+2026-05-25 18:41:09                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Negative Transfer Test Started
+2026-05-25 18:41:09                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction history page opened
+2026-05-25 18:41:09                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction history displayed successfully
+2026-05-25 18:41:09                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Closing browser
+2026-05-25 18:41:11                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer completed successfully
+2026-05-25 18:41:11                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Closing browser
+2026-05-25 18:41:12                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Login successful
+2026-05-25 18:41:16                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - From Account : 18561
+2026-05-25 18:41:16                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - To Account : 18672
+2026-05-25 18:41:16                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Invalid Amount : -500.0
+2026-05-25 18:41:19                 [TestNG-test-UI Automation Tests-1] WARN  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - APPLICATION DEFECT : Negative transfer accepted
+2026-05-25 18:41:19                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Closing browser
+2026-05-25 18:41:19                 [TestNG-test-API Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 18:41:19                 [TestNG-test-API Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 18:41:19                 [TestNG-test-API Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 18:41:20                 [TestNG-test-API Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 18:41:20                 [TestNG-test-API Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 18:41:20                 [TestNG-test-API Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 18:41:20                 [TestNG-test-API Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetch User API Test Started
+2026-05-25 18:41:20                 [TestNG-test-API Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Runtime User ID : 0
+2026-05-25 18:41:20                 [TestNG-test-API Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 18:41:20                 [TestNG-test-API Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 18:41:23                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Browser setup started
+2026-05-25 18:41:25                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Application launched successfully
+2026-05-25 18:41:25                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI API Integration Test Started
+2026-05-25 18:41:25                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 18:41:25                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 18:41:27                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI Login Successful
+2026-05-25 18:41:27                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 18:41:28                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Generated User ID : 1
+2026-05-25 18:41:28                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI API Integration Test Passed
+2026-05-25 18:41:28                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Closing browser
+2026-05-25 22:23:35                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Browser setup started
+2026-05-25 22:23:47                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Application launched successfully
+2026-05-25 22:23:47                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Negative Transfer Test Started
+2026-05-25 22:23:54                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Login successful
+2026-05-25 22:24:04                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - From Account : 25776
+2026-05-25 22:24:04                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - To Account : 26109
+2026-05-25 22:24:05                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Invalid Amount : -500.0
+2026-05-25 22:24:12                 [main] WARN  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - APPLICATION DEFECT : Negative transfer accepted
+2026-05-25 22:24:12                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Closing browser
+2026-05-25 22:26:19                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Browser setup started
+2026-05-25 22:26:22                 [main] ERROR com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Exception during browser setup
+org.openqa.selenium.WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=148.0.7778.179)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dd0b0a96bbcf73e8d0fdb70a65e18846, get {url=https://parabank.parasoft.com/parabank/index.htm}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 148.0.7778.179, chrome: {chromedriverVersion: 148.0.7778.178 (d096af1c9e9..., userDataDir: C:\Users\YAMUNA~1.BAT\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61201}, goog:processID: 10648, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61201/devtoo..., se:cdpVersion: 148.0.7778.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dd0b0a96bbcf73e8d0fdb70a65e18846
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:300) ~[selenium-remote-driver-4.21.0.jar:?]
+	at com.qentelli.GroupFinalAssessment.base.BaseTest.setup(BaseTest.java:89) ~[classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:833) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:600) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2026-05-25 22:27:38                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Browser setup started
+2026-05-25 22:27:44                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Application launched successfully
+2026-05-25 22:27:44                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Negative Transfer Test Started
+2026-05-25 22:27:48                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Login successful
+2026-05-25 22:27:52                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - From Account : 27885
+2026-05-25 22:27:52                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - To Account : 27996
+2026-05-25 22:27:52                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Invalid Amount : -500.0
+2026-05-25 22:27:55                 [main] WARN  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - APPLICATION DEFECT : Negative transfer accepted
+2026-05-25 22:27:55                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Closing browser
+2026-05-25 22:40:50                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Browser setup started
+2026-05-25 22:40:50                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Browser setup started
+2026-05-25 22:40:50                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Browser setup started
+2026-05-25 22:40:56                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Application launched successfully
+2026-05-25 22:40:56                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Login Test Started
+2026-05-25 22:40:57                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Application launched successfully
+2026-05-25 22:40:57                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Open Account Test Started
+2026-05-25 22:40:57                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Application launched successfully
+2026-05-25 22:40:57                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Registration Test Started
+2026-05-25 22:40:58                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Username : john
+2026-05-25 22:40:58                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.HomePage - Clicking Register Link
+2026-05-25 22:40:59                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Customer Registration Started
+2026-05-25 22:40:59                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Generated Username : user6021
+2026-05-25 22:40:59                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Password generated successfully
+2026-05-25 22:40:59                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Login successful
+2026-05-25 22:40:59                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Closing browser
+2026-05-25 22:40:59                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Login successful
+2026-05-25 22:41:00                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Browser setup started
+2026-05-25 22:41:00                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Submitting Registration Form
+2026-05-25 22:41:02                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Validating Registration Success
+2026-05-25 22:41:02                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Fetching Success Message
+2026-05-25 22:41:02                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Validating Account Creation Message
+2026-05-25 22:41:02                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Fetching Current URL
+2026-05-25 22:41:02                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Generated Account Number : 37875
+2026-05-25 22:41:02                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Closing browser
+2026-05-25 22:41:02                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Generated Username : user6021
+2026-05-25 22:41:02                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Registration Test Completed
+2026-05-25 22:41:02                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Closing browser
+2026-05-25 22:41:02                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Browser setup started
+2026-05-25 22:41:02                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Browser setup started
+2026-05-25 22:41:04                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Application launched successfully
+2026-05-25 22:41:04                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Funds Test Started
+2026-05-25 22:41:04                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Username : john
+2026-05-25 22:41:06                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Application launched successfully
+2026-05-25 22:41:06                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Negative Registration Test Started
+2026-05-25 22:41:06                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.HomePage - Clicking Register Link
+2026-05-25 22:41:06                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Application launched successfully
+2026-05-25 22:41:06                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction History Test Started
+2026-05-25 22:41:07                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Login successful
+2026-05-25 22:41:07                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Application launched successfully
+2026-05-25 22:41:07                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Username fetched successfully
+2026-05-25 22:41:08                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Clicking Register Button Without Data
+2026-05-25 22:41:08                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Checking Validation Message
+2026-05-25 22:41:09                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Screenshot Captured At : screenshots/verifyRegistrationWithoutMandatoryFields_20260525_224109.png
+2026-05-25 22:41:09                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Negative Registration Test Completed
+2026-05-25 22:41:09                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Closing browser
+2026-05-25 22:41:09                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Login completed successfully
+2026-05-25 22:41:09                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Browser setup started
+2026-05-25 22:41:09                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - From Account Created : 37986
+2026-05-25 22:41:11                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - First account opened successfully
+2026-05-25 22:41:11                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - To Account Created : 38097
+2026-05-25 22:41:11                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Amount : 500.0
+2026-05-25 22:41:11                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Description : Monthly Rent
+2026-05-25 22:41:11                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Expected Result : success
+2026-05-25 22:41:12                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Application launched successfully
+2026-05-25 22:41:12                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Negative Transfer Test Started
+2026-05-25 22:41:12                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction history page opened
+2026-05-25 22:41:13                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction history displayed successfully
+2026-05-25 22:41:13                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Closing browser
+2026-05-25 22:41:14                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Login successful
+2026-05-25 22:41:15                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer completed successfully
+2026-05-25 22:41:15                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Closing browser
+2026-05-25 22:41:19                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - From Account : 38319
+2026-05-25 22:41:19                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - To Account : 38430
+2026-05-25 22:41:19                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Invalid Amount : -500.0
+2026-05-25 22:41:22                 [TestNG-test-UI Automation Tests-1] WARN  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - APPLICATION DEFECT : Negative transfer accepted
+2026-05-25 22:41:22                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Closing browser
+2026-05-25 22:41:22                 [TestNG-test-API Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 22:41:22                 [TestNG-test-API Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 22:41:22                 [TestNG-test-API Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 22:41:22                 [TestNG-test-API Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 22:41:22                 [TestNG-test-API Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 22:41:22                 [TestNG-test-API Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 22:41:22                 [TestNG-test-API Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetch User API Test Started
+2026-05-25 22:41:22                 [TestNG-test-API Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Runtime User ID : 0
+2026-05-25 22:41:23                 [TestNG-test-API Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 22:41:23                 [TestNG-test-API Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 22:41:25                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Browser setup started
+2026-05-25 22:41:28                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Application launched successfully
+2026-05-25 22:41:28                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI API Integration Test Started
+2026-05-25 22:41:28                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 22:41:28                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 22:41:30                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI Login Successful
+2026-05-25 22:41:30                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 22:41:31                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Generated User ID : 11
+2026-05-25 22:41:31                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI API Integration Test Passed
+2026-05-25 22:41:31                 [TestNG-test-Integration Test-1] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Closing browser
+2026-05-25 22:49:17                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Browser setup started
+2026-05-25 22:49:17                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Browser setup started
+2026-05-25 22:49:17                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Browser setup started
+2026-05-25 22:49:26                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Application launched successfully
+2026-05-25 22:49:26                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Registration Test Started
+2026-05-25 22:49:26                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Application launched successfully
+2026-05-25 22:49:26                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Login Test Started
+2026-05-25 22:49:27                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Application launched successfully
+2026-05-25 22:49:27                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Open Account Test Started
+2026-05-25 22:49:27                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Username : john
+2026-05-25 22:49:27                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.HomePage - Clicking Register Link
+2026-05-25 22:49:30                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Customer Registration Started
+2026-05-25 22:49:30                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Generated Username : user5790
+2026-05-25 22:49:30                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Password generated successfully
+2026-05-25 22:49:32                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Login successful
+2026-05-25 22:49:32                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Closing browser
+2026-05-25 22:49:32                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Submitting Registration Form
+2026-05-25 22:49:32                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Browser setup started
+2026-05-25 22:49:32                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Login successful
+2026-05-25 22:49:35                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Validating Registration Success
+2026-05-25 22:49:35                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Fetching Success Message
+2026-05-25 22:49:35                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Validating Account Creation Message
+2026-05-25 22:49:36                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Fetching Current URL
+2026-05-25 22:49:36                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Generated Username : user5790
+2026-05-25 22:49:36                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Registration Test Completed
+2026-05-25 22:49:36                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Closing browser
+2026-05-25 22:49:36                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Browser setup started
+2026-05-25 22:49:38                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Generated Account Number : 48642
+2026-05-25 22:49:38                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Closing browser
+2026-05-25 22:49:38                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Browser setup started
+2026-05-25 22:49:44                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Application launched successfully
+2026-05-25 22:49:44                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Funds Test Started
+2026-05-25 22:49:45                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Username : john
+2026-05-25 22:49:54                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Application launched successfully
+2026-05-25 22:49:54                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction History Test Started
+2026-05-25 22:49:54                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Application launched successfully
+2026-05-25 22:49:54                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Negative Registration Test Started
+2026-05-25 22:49:54                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.HomePage - Clicking Register Link
+2026-05-25 22:49:57                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Login successful
+2026-05-25 22:50:01                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Application launched successfully
+2026-05-25 22:50:01                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Username fetched successfully
+2026-05-25 22:50:03                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Clicking Register Button Without Data
+2026-05-25 22:50:08                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Checking Validation Message
+2026-05-25 22:50:09                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Screenshot Captured At : screenshots/verifyRegistrationWithoutMandatoryFields_20260525_225008.png
+2026-05-25 22:50:09                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Negative Registration Test Completed
+2026-05-25 22:50:09                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Closing browser
+2026-05-25 22:50:09                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Browser setup started
+2026-05-25 22:50:09                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Login completed successfully
+2026-05-25 22:50:10                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - From Account Created : 49197
+2026-05-25 22:50:55                 [TestNG-test-UI Automation Tests-2] ERROR com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Exception in Transfer Funds Test
+2026-05-25 22:50:55                 [TestNG-test-UI Automation Tests-2] ERROR com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Expected condition failed: waiting for visibility of element located by By.id: newAccountId (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 148.0.7778.179, chrome: {chromedriverVersion: 148.0.7778.178 (d096af1c9e9..., userDataDir: C:\Users\YAMUNA~1.BAT\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52064}, goog:processID: 26620, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52064/devtoo..., se:cdpVersion: 148.0.7778.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fa228de322926bdf0f24adba98e44f9f
+2026-05-25 22:50:55                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Closing browser
+2026-05-25 22:51:14                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - First account opened successfully
+2026-05-25 22:51:32                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction history page opened
+2026-05-25 22:51:32                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction history displayed successfully
+2026-05-25 22:51:32                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Closing browser
+2026-05-25 22:51:33                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Application launched successfully
+2026-05-25 22:51:33                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Negative Transfer Test Started
+2026-05-25 22:51:37                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Login successful
+2026-05-25 22:51:42                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - From Account : 50085
+2026-05-25 22:51:42                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - To Account : 50196
+2026-05-25 22:51:42                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Invalid Amount : -500.0
+2026-05-25 22:52:03                 [TestNG-test-UI Automation Tests-1] WARN  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - APPLICATION DEFECT : Negative transfer accepted
+2026-05-25 22:52:03                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Closing browser
+2026-05-25 22:52:03                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 22:52:04                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 22:52:04                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 22:52:07                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 22:52:07                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 22:52:07                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 22:52:08                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 22:52:08                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 22:52:08                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetch User API Test Started
+2026-05-25 22:52:08                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Runtime User ID : 11
+2026-05-25 22:52:08                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - GET API Request Started
+2026-05-25 22:52:09                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetch User API Executed
+2026-05-25 22:52:09                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Status Code Validated
+2026-05-25 22:52:09                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Browser setup started
+2026-05-25 22:52:14                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Application launched successfully
+2026-05-25 22:52:14                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI API Integration Test Started
+2026-05-25 22:52:14                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 22:52:14                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 22:52:20                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI Login Successful
+2026-05-25 22:52:20                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 22:52:21                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Generated User ID : 11
+2026-05-25 22:52:21                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI API Integration Test Passed
+2026-05-25 22:52:21                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Closing browser
+2026-05-25 22:53:44                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 22:53:44                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 22:53:44                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetch User API Test Started
+2026-05-25 22:53:44                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Runtime User ID : 0
+2026-05-25 22:58:06                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Browser setup started
+2026-05-25 22:58:06                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Browser setup started
+2026-05-25 22:58:06                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Browser setup started
+2026-05-25 22:58:20                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Application launched successfully
+2026-05-25 22:58:20                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Login Test Started
+2026-05-25 22:58:21                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Username : john
+2026-05-25 22:58:25                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Application launched successfully
+2026-05-25 22:58:25                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Registration Test Started
+2026-05-25 22:58:26                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.HomePage - Clicking Register Link
+2026-05-25 22:59:03                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Login successful
+2026-05-25 22:59:03                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Closing browser
+2026-05-25 22:59:03                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Browser setup started
+2026-05-25 22:59:13                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Application launched successfully
+2026-05-25 22:59:13                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Funds Test Started
+2026-05-25 22:59:13                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Username : john
+2026-05-25 22:59:14                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Customer Registration Started
+2026-05-25 22:59:14                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Generated Username : user5995
+2026-05-25 22:59:14                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Password generated successfully
+2026-05-25 22:59:15                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Application launched successfully
+2026-05-25 22:59:15                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Open Account Test Started
+2026-05-25 22:59:33                 [TestNG-test-UI Automation Tests-2] ERROR com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Exception in Transfer Funds Test
+2026-05-25 22:59:33                 [TestNG-test-UI Automation Tests-2] ERROR com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Expected condition failed: waiting for visibility of element located by By.name: username (tried for 20 second(s) with 500 milliseconds interval)
+2026-05-25 22:59:33                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Closing browser
+2026-05-25 22:59:34                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Browser setup started
+2026-05-25 22:59:34                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Closing browser
+2026-05-25 22:59:35                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Browser setup started
+2026-05-25 22:59:35                 [TestNG-test-UI Automation Tests-3] ERROR com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Exception in Open Account Test
+2026-05-25 22:59:35                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Closing browser
+2026-05-25 22:59:36                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Browser setup started
+2026-05-25 22:59:59                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Application launched successfully
+2026-05-25 22:59:59                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction History Test Started
+2026-05-25 23:00:00                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Application launched successfully
+2026-05-25 23:00:00                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Negative Registration Test Started
+2026-05-25 23:00:00                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.HomePage - Clicking Register Link
+2026-05-25 23:00:02                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Application launched successfully
+2026-05-25 23:00:02                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Negative Transfer Test Started
+2026-05-25 23:00:25                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Clicking Register Button Without Data
+2026-05-25 23:00:26                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Application launched successfully
+2026-05-25 23:00:26                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Username fetched successfully
+2026-05-25 23:00:45                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Closing browser
+2026-05-25 23:00:45                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Closing browser
+2026-05-25 23:00:46                 [TestNG-test-UI Automation Tests-2] ERROR com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Exception occurred in TransactionHistoryTest
+2026-05-25 23:00:46                 [TestNG-test-UI Automation Tests-2] ERROR com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Expected condition failed: waiting for visibility of element located by By.name: username (tried for 20 second(s) with 500 milliseconds interval)
+2026-05-25 23:00:46                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Closing browser
+2026-05-25 23:00:47                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:00:47                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:00:47                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 23:00:50                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:00:50                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:00:50                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 23:00:50                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:00:50                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:00:50                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetch User API Test Started
+2026-05-25 23:00:50                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Runtime User ID : 11
+2026-05-25 23:00:50                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - GET API Request Started
+2026-05-25 23:00:51                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetch User API Executed
+2026-05-25 23:00:51                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Status Code Validated
+2026-05-25 23:00:52                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Browser setup started
+2026-05-25 23:01:01                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Application launched successfully
+2026-05-25 23:01:01                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI API Integration Test Started
+2026-05-25 23:01:01                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:01:01                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:01:03                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI Login Successful
+2026-05-25 23:01:03                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 23:01:04                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Generated User ID : 11
+2026-05-25 23:01:04                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI API Integration Test Passed
+2026-05-25 23:01:04                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Closing browser
+2026-05-25 23:01:40                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Browser setup started
+2026-05-25 23:01:40                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Browser setup started
+2026-05-25 23:01:40                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Browser setup started
+2026-05-25 23:01:44                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Application launched successfully
+2026-05-25 23:01:44                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Open Account Test Started
+2026-05-25 23:01:44                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Application launched successfully
+2026-05-25 23:01:44                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Login Test Started
+2026-05-25 23:01:45                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Application launched successfully
+2026-05-25 23:01:45                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Registration Test Started
+2026-05-25 23:01:45                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Username : john
+2026-05-25 23:01:46                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.HomePage - Clicking Register Link
+2026-05-25 23:01:47                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Customer Registration Started
+2026-05-25 23:01:47                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Generated Username : user3414
+2026-05-25 23:01:47                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Password generated successfully
+2026-05-25 23:01:47                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Login successful
+2026-05-25 23:01:47                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Closing browser
+2026-05-25 23:01:47                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Login successful
+2026-05-25 23:01:48                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Browser setup started
+2026-05-25 23:01:48                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Submitting Registration Form
+2026-05-25 23:01:49                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Validating Registration Success
+2026-05-25 23:01:49                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Fetching Success Message
+2026-05-25 23:01:49                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Validating Account Creation Message
+2026-05-25 23:01:50                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Fetching Current URL
+2026-05-25 23:01:50                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Generated Username : user3414
+2026-05-25 23:01:50                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Registration Test Completed
+2026-05-25 23:01:50                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Closing browser
+2026-05-25 23:01:50                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Browser setup started
+2026-05-25 23:01:50                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Generated Account Number : 56523
+2026-05-25 23:01:50                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Closing browser
+2026-05-25 23:01:50                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Browser setup started
+2026-05-25 23:01:51                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Application launched successfully
+2026-05-25 23:01:51                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Funds Test Started
+2026-05-25 23:01:51                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Username : john
+2026-05-25 23:01:52                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Application launched successfully
+2026-05-25 23:01:52                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Negative Registration Test Started
+2026-05-25 23:01:52                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.HomePage - Clicking Register Link
+2026-05-25 23:01:54                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Application launched successfully
+2026-05-25 23:01:54                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction History Test Started
+2026-05-25 23:01:54                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Login successful
+2026-05-25 23:01:55                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Clicking Register Button Without Data
+2026-05-25 23:01:55                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Application launched successfully
+2026-05-25 23:01:55                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Username fetched successfully
+2026-05-25 23:01:56                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Checking Validation Message
+2026-05-25 23:01:56                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Screenshot Captured At : screenshots/verifyRegistrationWithoutMandatoryFields_20260525_230156.png
+2026-05-25 23:01:56                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Negative Registration Test Completed
+2026-05-25 23:01:56                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Closing browser
+2026-05-25 23:01:56                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Browser setup started
+2026-05-25 23:01:56                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - From Account Created : 56745
+2026-05-25 23:01:57                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Login completed successfully
+2026-05-25 23:01:58                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - First account opened successfully
+2026-05-25 23:01:58                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - To Account Created : 56856
+2026-05-25 23:01:59                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Amount : 500.0
+2026-05-25 23:01:59                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Description : Monthly Rent
+2026-05-25 23:01:59                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Expected Result : success
+2026-05-25 23:01:59                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction history page opened
+2026-05-25 23:01:59                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction history displayed successfully
+2026-05-25 23:01:59                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Closing browser
+2026-05-25 23:01:59                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Application launched successfully
+2026-05-25 23:01:59                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Negative Transfer Test Started
+2026-05-25 23:02:00                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Login successful
+2026-05-25 23:02:03                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer completed successfully
+2026-05-25 23:02:03                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Closing browser
+2026-05-25 23:02:05                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - From Account : 56967
+2026-05-25 23:02:05                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - To Account : 57189
+2026-05-25 23:02:05                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Invalid Amount : -500.0
+2026-05-25 23:02:08                 [TestNG-test-UI Automation Tests-1] WARN  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - APPLICATION DEFECT : Negative transfer accepted
+2026-05-25 23:02:08                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Closing browser
+2026-05-25 23:02:08                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:02:08                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:02:08                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 23:02:11                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:02:11                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:02:11                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 23:02:11                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:02:11                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:02:11                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetch User API Test Started
+2026-05-25 23:02:11                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Runtime User ID : 1
+2026-05-25 23:02:11                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - GET API Request Started
+2026-05-25 23:02:12                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetch User API Executed
+2026-05-25 23:02:12                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Status Code Validated
+2026-05-25 23:02:12                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Schema Validation Completed
+2026-05-25 23:02:12                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Response Time Validated
+2026-05-25 23:02:12                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetched User ID : 1
+2026-05-25 23:02:12                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetch User API Test Passed
+2026-05-25 23:02:12                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Browser setup started
+2026-05-25 23:02:15                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Application launched successfully
+2026-05-25 23:02:15                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI API Integration Test Started
+2026-05-25 23:02:15                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:02:15                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:02:17                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI Login Successful
+2026-05-25 23:02:17                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 23:02:19                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Generated User ID : 1
+2026-05-25 23:02:19                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI API Integration Test Passed
+2026-05-25 23:02:19                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Closing browser
+2026-05-25 23:04:24                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Browser setup started
+2026-05-25 23:04:24                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Browser setup started
+2026-05-25 23:04:24                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Browser setup started
+2026-05-25 23:04:29                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Application launched successfully
+2026-05-25 23:04:29                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Login Test Started
+2026-05-25 23:04:29                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Application launched successfully
+2026-05-25 23:04:29                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Open Account Test Started
+2026-05-25 23:04:29                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Application launched successfully
+2026-05-25 23:04:29                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Registration Test Started
+2026-05-25 23:04:30                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Username : john
+2026-05-25 23:04:30                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.HomePage - Clicking Register Link
+2026-05-25 23:04:31                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Customer Registration Started
+2026-05-25 23:04:31                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Generated Username : user9920
+2026-05-25 23:04:31                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Password generated successfully
+2026-05-25 23:04:31                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Login successful
+2026-05-25 23:04:31                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Closing browser
+2026-05-25 23:04:31                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Login successful
+2026-05-25 23:04:32                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Browser setup started
+2026-05-25 23:04:32                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Submitting Registration Form
+2026-05-25 23:04:33                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Validating Registration Success
+2026-05-25 23:04:33                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Fetching Success Message
+2026-05-25 23:04:33                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Validating Account Creation Message
+2026-05-25 23:04:34                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Fetching Current URL
+2026-05-25 23:04:34                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Generated Username : user9920
+2026-05-25 23:04:34                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Registration Test Completed
+2026-05-25 23:04:34                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Closing browser
+2026-05-25 23:04:34                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Browser setup started
+2026-05-25 23:04:34                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Generated Account Number : 57855
+2026-05-25 23:04:34                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Closing browser
+2026-05-25 23:04:34                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Browser setup started
+2026-05-25 23:04:35                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Application launched successfully
+2026-05-25 23:04:35                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Funds Test Started
+2026-05-25 23:04:35                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Username : john
+2026-05-25 23:04:37                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Application launched successfully
+2026-05-25 23:04:37                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Negative Registration Test Started
+2026-05-25 23:04:37                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.HomePage - Clicking Register Link
+2026-05-25 23:04:37                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Login successful
+2026-05-25 23:04:38                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Application launched successfully
+2026-05-25 23:04:38                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction History Test Started
+2026-05-25 23:04:39                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Clicking Register Button Without Data
+2026-05-25 23:04:39                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Checking Validation Message
+2026-05-25 23:04:39                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Application launched successfully
+2026-05-25 23:04:39                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Username fetched successfully
+2026-05-25 23:04:40                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Screenshot Captured At : screenshots/verifyRegistrationWithoutMandatoryFields_20260525_230439.png
+2026-05-25 23:04:40                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Negative Registration Test Completed
+2026-05-25 23:04:40                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Closing browser
+2026-05-25 23:04:40                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Browser setup started
+2026-05-25 23:04:40                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - From Account Created : 57966
+2026-05-25 23:04:41                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Login completed successfully
+2026-05-25 23:04:42                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - First account opened successfully
+2026-05-25 23:04:42                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - To Account Created : 58077
+2026-05-25 23:04:42                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Amount : 500.0
+2026-05-25 23:04:42                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Description : Monthly Rent
+2026-05-25 23:04:42                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Expected Result : success
+2026-05-25 23:04:43                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Application launched successfully
+2026-05-25 23:04:43                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Negative Transfer Test Started
+2026-05-25 23:04:43                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction history page opened
+2026-05-25 23:04:43                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction history displayed successfully
+2026-05-25 23:04:43                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Closing browser
+2026-05-25 23:04:44                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Login successful
+2026-05-25 23:04:45                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer completed successfully
+2026-05-25 23:04:45                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Closing browser
+2026-05-25 23:04:49                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - From Account : 58188
+2026-05-25 23:04:49                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - To Account : 58299
+2026-05-25 23:04:49                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Invalid Amount : -500.0
+2026-05-25 23:04:52                 [TestNG-test-UI Automation Tests-1] WARN  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - APPLICATION DEFECT : Negative transfer accepted
+2026-05-25 23:04:52                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Closing browser
+2026-05-25 23:04:52                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:04:53                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:04:53                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 23:04:55                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:04:55                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:04:55                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 23:04:56                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:04:56                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:04:56                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetch User API Test Started
+2026-05-25 23:04:56                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Runtime User ID : 11
+2026-05-25 23:04:56                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - GET API Request Started
+2026-05-25 23:04:57                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetch User API Executed
+2026-05-25 23:04:57                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Status Code Validated
+2026-05-25 23:04:57                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Browser setup started
+2026-05-25 23:04:59                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Application launched successfully
+2026-05-25 23:04:59                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI API Integration Test Started
+2026-05-25 23:04:59                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:04:59                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:05:01                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI Login Successful
+2026-05-25 23:05:01                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 23:05:02                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Generated User ID : 11
+2026-05-25 23:05:02                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI API Integration Test Passed
+2026-05-25 23:05:02                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Closing browser
+2026-05-25 23:11:34                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Browser setup started
+2026-05-25 23:11:34                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Browser setup started
+2026-05-25 23:11:34                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Browser setup started
+2026-05-25 23:11:40                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Application launched successfully
+2026-05-25 23:11:40                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Application launched successfully
+2026-05-25 23:11:40                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Login Test Started
+2026-05-25 23:11:40                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Open Account Test Started
+2026-05-25 23:11:41                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Application launched successfully
+2026-05-25 23:11:41                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Registration Test Started
+2026-05-25 23:11:42                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Username : john
+2026-05-25 23:11:42                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.HomePage - Clicking Register Link
+2026-05-25 23:11:43                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Customer Registration Started
+2026-05-25 23:11:43                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Generated Username : user8595
+2026-05-25 23:11:43                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Password generated successfully
+2026-05-25 23:11:44                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Login successful
+2026-05-25 23:11:44                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Closing browser
+2026-05-25 23:11:44                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Login successful
+2026-05-25 23:11:45                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Browser setup started
+2026-05-25 23:11:45                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Submitting Registration Form
+2026-05-25 23:11:46                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Validating Registration Success
+2026-05-25 23:11:46                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Fetching Success Message
+2026-05-25 23:11:46                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Validating Account Creation Message
+2026-05-25 23:11:46                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Fetching Current URL
+2026-05-25 23:11:46                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Generated Username : user8595
+2026-05-25 23:11:46                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Registration Test Completed
+2026-05-25 23:11:46                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Closing browser
+2026-05-25 23:11:46                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Browser setup started
+2026-05-25 23:11:47                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Generated Account Number : 61185
+2026-05-25 23:11:47                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Closing browser
+2026-05-25 23:11:48                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Browser setup started
+2026-05-25 23:11:50                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Application launched successfully
+2026-05-25 23:11:50                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Funds Test Started
+2026-05-25 23:11:50                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Username : john
+2026-05-25 23:11:51                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Application launched successfully
+2026-05-25 23:11:51                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Negative Registration Test Started
+2026-05-25 23:11:51                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.HomePage - Clicking Register Link
+2026-05-25 23:11:53                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Login successful
+2026-05-25 23:11:53                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Application launched successfully
+2026-05-25 23:11:53                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction History Test Started
+2026-05-25 23:11:53                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Clicking Register Button Without Data
+2026-05-25 23:11:54                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Checking Validation Message
+2026-05-25 23:11:54                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Application launched successfully
+2026-05-25 23:11:54                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Username fetched successfully
+2026-05-25 23:11:55                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Screenshot Captured At : screenshots/verifyRegistrationWithoutMandatoryFields_20260525_231154.png
+2026-05-25 23:11:55                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Negative Registration Test Completed
+2026-05-25 23:11:55                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Closing browser
+2026-05-25 23:11:55                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Browser setup started
+2026-05-25 23:11:55                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - From Account Created : 61296
+2026-05-25 23:11:56                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Login completed successfully
+2026-05-25 23:11:57                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Application launched successfully
+2026-05-25 23:11:57                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Negative Transfer Test Started
+2026-05-25 23:11:57                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - First account opened successfully
+2026-05-25 23:11:58                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction history page opened
+2026-05-25 23:11:58                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction history displayed successfully
+2026-05-25 23:11:58                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Closing browser
+2026-05-25 23:11:58                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - To Account Created : 61407
+2026-05-25 23:11:58                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Amount : 500.0
+2026-05-25 23:11:58                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Description : Monthly Rent
+2026-05-25 23:11:58                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Expected Result : success
+2026-05-25 23:12:01                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Login successful
+2026-05-25 23:12:03                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer completed successfully
+2026-05-25 23:12:03                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Closing browser
+2026-05-25 23:12:05                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - From Account : 61518
+2026-05-25 23:12:05                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - To Account : 61629
+2026-05-25 23:12:05                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Invalid Amount : -500.0
+2026-05-25 23:12:08                 [TestNG-test-UI Automation Tests-1] WARN  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - APPLICATION DEFECT : Negative transfer accepted
+2026-05-25 23:12:08                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Closing browser
+2026-05-25 23:12:09                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:12:09                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:12:09                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 23:12:11                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:12:11                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:12:12                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 23:12:12                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:12:12                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:12:12                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetch User API Test Started
+2026-05-25 23:12:12                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetching User ID : 1
+2026-05-25 23:12:12                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - GET API Request Started
+2026-05-25 23:12:13                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetch User API Executed
+2026-05-25 23:12:13                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Status Code Validated
+2026-05-25 23:12:13                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Response Body : {"address":{"geolocation":{"lat":"-37.3159","long":"81.1496"},"city":"kilcoole","street":"new road","number":7682,"zipcode":"12926-3874"},"id":1,"email":"john@gmail.com","username":"johnd","password":"m38rmF$","name":{"firstname":"john","lastname":"doe"},"phone":"1-570-236-7033","__v":0}
+2026-05-25 23:12:13                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Schema Validation Completed
+2026-05-25 23:12:13                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Response Time Validated
+2026-05-25 23:12:13                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetch User API Test Passed
+2026-05-25 23:12:13                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Browser setup started
+2026-05-25 23:12:16                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Application launched successfully
+2026-05-25 23:12:16                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI API Integration Test Started
+2026-05-25 23:12:16                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:12:16                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:12:18                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI Login Successful
+2026-05-25 23:12:18                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 23:12:19                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Generated User ID : 1
+2026-05-25 23:12:19                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI API Integration Test Passed
+2026-05-25 23:12:19                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Closing browser
+2026-05-25 23:15:18                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Browser setup started
+2026-05-25 23:15:18                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Browser setup started
+2026-05-25 23:15:18                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Browser setup started
+2026-05-25 23:15:24                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Application launched successfully
+2026-05-25 23:15:24                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Application launched successfully
+2026-05-25 23:15:24                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Registration Test Started
+2026-05-25 23:15:24                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Open Account Test Started
+2026-05-25 23:15:24                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Application launched successfully
+2026-05-25 23:15:24                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Login Test Started
+2026-05-25 23:15:25                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Username : john
+2026-05-25 23:15:25                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.HomePage - Clicking Register Link
+2026-05-25 23:15:26                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Customer Registration Started
+2026-05-25 23:15:26                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Generated Username : user6729
+2026-05-25 23:15:26                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Password generated successfully
+2026-05-25 23:15:26                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Login successful
+2026-05-25 23:15:26                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Login successful
+2026-05-25 23:15:26                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.LoginTest - Closing browser
+2026-05-25 23:15:26                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Browser setup started
+2026-05-25 23:15:27                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Submitting Registration Form
+2026-05-25 23:15:28                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Validating Registration Success
+2026-05-25 23:15:28                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Fetching Success Message
+2026-05-25 23:15:28                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Validating Account Creation Message
+2026-05-25 23:15:28                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Fetching Current URL
+2026-05-25 23:15:28                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Generated Username : user6729
+2026-05-25 23:15:28                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Registration Test Completed
+2026-05-25 23:15:28                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Closing browser
+2026-05-25 23:15:29                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Browser setup started
+2026-05-25 23:15:29                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Generated Account Number : 62739
+2026-05-25 23:15:29                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.OpenAccountTest - Closing browser
+2026-05-25 23:15:29                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Browser setup started
+2026-05-25 23:15:30                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Application launched successfully
+2026-05-25 23:15:30                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Funds Test Started
+2026-05-25 23:15:30                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Username : john
+2026-05-25 23:15:32                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Application launched successfully
+2026-05-25 23:15:32                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Negative Registration Test Started
+2026-05-25 23:15:32                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.HomePage - Clicking Register Link
+2026-05-25 23:15:32                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Login successful
+2026-05-25 23:15:32                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Application launched successfully
+2026-05-25 23:15:32                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction History Test Started
+2026-05-25 23:15:33                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Application launched successfully
+2026-05-25 23:15:33                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Username fetched successfully
+2026-05-25 23:15:33                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Clicking Register Button Without Data
+2026-05-25 23:15:33                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.pages.RegistrationPage - Checking Validation Message
+2026-05-25 23:15:34                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - From Account Created : 62850
+2026-05-25 23:15:34                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Screenshot Captured At : screenshots/verifyRegistrationWithoutMandatoryFields_20260525_231534.png
+2026-05-25 23:15:34                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Negative Registration Test Completed
+2026-05-25 23:15:34                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.RegistrationTest - Closing browser
+2026-05-25 23:15:34                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Browser setup started
+2026-05-25 23:15:35                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Login completed successfully
+2026-05-25 23:15:36                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - First account opened successfully
+2026-05-25 23:15:36                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - To Account Created : 62961
+2026-05-25 23:15:36                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Amount : 500.0
+2026-05-25 23:15:36                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer Description : Monthly Rent
+2026-05-25 23:15:36                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Expected Result : success
+2026-05-25 23:15:37                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction history page opened
+2026-05-25 23:15:37                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Transaction history displayed successfully
+2026-05-25 23:15:37                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Application launched successfully
+2026-05-25 23:15:37                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Negative Transfer Test Started
+2026-05-25 23:15:37                 [TestNG-test-UI Automation Tests-3] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransactionHistoryTest - Closing browser
+2026-05-25 23:15:39                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Login successful
+2026-05-25 23:15:40                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Transfer completed successfully
+2026-05-25 23:15:40                 [TestNG-test-UI Automation Tests-2] INFO  com.qentelli.GroupFinalAssessment.tests.ui.TransferFundsTest - Closing browser
+2026-05-25 23:15:43                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - From Account : 63072
+2026-05-25 23:15:43                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - To Account : 63183
+2026-05-25 23:15:43                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Invalid Amount : -500.0
+2026-05-25 23:15:46                 [TestNG-test-UI Automation Tests-1] WARN  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - APPLICATION DEFECT : Negative transfer accepted
+2026-05-25 23:15:46                 [TestNG-test-UI Automation Tests-1] INFO  com.qentelli.GroupFinalAssessment.tests.ui.NegativeTransferTest - Closing browser
+2026-05-25 23:15:46                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:15:47                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:15:47                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 23:15:49                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:15:49                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:15:49                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 23:15:50                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:15:50                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:15:50                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetch User API Test Started
+2026-05-25 23:15:50                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetching User ID : 1
+2026-05-25 23:15:50                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - GET API Request Started
+2026-05-25 23:15:50                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetch User API Executed
+2026-05-25 23:15:50                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Status Code Validated
+2026-05-25 23:15:50                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Response Body : {"address":{"geolocation":{"lat":"-37.3159","long":"81.1496"},"city":"kilcoole","street":"new road","number":7682,"zipcode":"12926-3874"},"id":1,"email":"john@gmail.com","username":"johnd","password":"m38rmF$","name":{"firstname":"john","lastname":"doe"},"phone":"1-570-236-7033","__v":0}
+2026-05-25 23:15:50                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Schema Validation Completed
+2026-05-25 23:15:50                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Response Time Validated
+2026-05-25 23:15:50                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.api.FetchUserApiTest - Fetch User API Test Passed
+2026-05-25 23:15:50                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Browser setup started
+2026-05-25 23:15:53                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Application launched successfully
+2026-05-25 23:15:53                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI API Integration Test Started
+2026-05-25 23:15:53                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - API setup started
+2026-05-25 23:15:53                 [main] INFO  com.qentelli.GroupFinalAssessment.base.BaseApi - Base URI Configured : https://fakestoreapi.com
+2026-05-25 23:15:54                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI Login Successful
+2026-05-25 23:15:54                 [main] INFO  com.qentelli.GroupFinalAssessment.api.ApiClient - POST API Request Started
+2026-05-25 23:15:55                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Generated User ID : 11
+2026-05-25 23:15:55                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - UI API Integration Test Passed
+2026-05-25 23:15:55                 [main] INFO  com.qentelli.GroupFinalAssessment.tests.integration.UiApiIntegrationTest - Closing browser

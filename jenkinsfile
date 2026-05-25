@@ -1,0 +1,58 @@
+pipeline {
+
+    agent any
+
+    tools {
+
+        maven 'Maven'
+    }
+
+    stages {
+
+        stage('Clone') {
+
+            steps {
+
+                git 'https://github.com/yamu-na/Enterprise-Banking-Loan-Management-Website-Automation-Testing.git'
+            }
+        }
+
+        stage('Build and Execute Tests') {
+
+            steps {
+
+                bat 'mvn clean test'
+            }
+        }
+    }
+
+    post {
+
+        always {
+
+            emailext(
+
+                subject:
+                'Automation Execution Report',
+
+                body:
+                '''
+                Hello Team,
+
+                Automation execution completed.
+
+                Please find the attached reports.
+
+                Thanks,
+                Automation Framework
+                ''',
+
+                to:
+                'yamunabathi2004@gmail.com',
+
+                attachmentsPattern:
+                'reports/ExtentReport.html'
+            )
+        }
+    }
+}
