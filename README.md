@@ -1,4 +1,4 @@
-# Qentelli Group Final Assessment
+## Enterprise Banking & Loan Management Automation Framework
 
 ## Project Overview
 
