@@ -2,7 +2,11 @@
 
 ## Project Overview
 
-This project is a Hybrid Test Automation Framework developed for banking application testing using Selenium WebDriver, REST Assured, TestNG, and Maven.  
+This project is a Hybrid Test Automation Framework developed for banking application
+(UI Automation Portal
+https://parabank.parasoft.com/parabank/index.htm
+API Automation
+https://fakestoreapi.com/ ) testing using Selenium WebDriver, REST Assured, TestNG, and Maven.  
 The framework supports UI Testing, API Testing, UI + API Integration Testing, Parallel Execution, Reporting, and Logging.
 
 The framework is designed using the Page Object Model (POM) architecture with reusable components, dynamic test data handling, and industry-standard automation practices.
